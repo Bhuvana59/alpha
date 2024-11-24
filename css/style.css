@@ -89,6 +89,11 @@ h6,
     font-weight: 600 !important;
 }
 
+@media (min-width:768px){
+    h1{
+        font-size:2rem;
+    }
+}
 
 /*** Button ***/
 .btn {
